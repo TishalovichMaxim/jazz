@@ -1,0 +1,8 @@
+{
+  "mavenCoordinates" : {
+    "groupId" : "by.tishalovichm",
+    "artifactId" : "jazz",
+    "version" : "1"
+  },
+  "dependencies" : [ ]
+}
